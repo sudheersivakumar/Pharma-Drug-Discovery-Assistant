@@ -51,8 +51,8 @@ st.markdown("""
         border-radius: 8px;
     }
     div[data-testid="stMetric"] {
-        background-color: #FFFFFF;
-        border: 1px solid #E0E0E0;
+        background-color: #000000;
+        border: 1px solid #E0F7FA;
         border-radius: 8px;
         padding: 15px;
     }
